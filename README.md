@@ -21,7 +21,7 @@ Simple. Clean. No drama.
 
 ---
 
-## 2. Subnetting 192.168.10.0/24 — Borrowing Bits Like You're Taking PTO
+## 2. Subnetting 192.168.10.0/24
 
 We start with a /24 (255.255.255.0).  
 That gives us 256 IP addresses but only **1 subnet**.  
